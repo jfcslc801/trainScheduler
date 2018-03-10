@@ -1,0 +1,36 @@
+.jumbotron {
+    background-color: black;
+    color: white;
+}
+th {
+    text-align: center;
+    background-color: black;
+    color: white;
+    
+}
+.panel-heading {
+	font-size: 30px;
+	text-align: center;
+    background-color: black;
+    
+}
+td {
+    text-align: center;
+    color: black;
+}
+
+label {
+    font-size: 18px;
+    color: black;
+}
+
+#panel-style,
+.btn{
+    background-color: black;    
+    color: white;
+}
+
+#form-control{
+    border: 1px solid #ccc; 
+}
+
